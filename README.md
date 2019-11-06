@@ -10,7 +10,7 @@ To make sure data can be used in a unsupervised machine learning algorithm, data
 
 Once that the number of cluster is known a description of the information can be seen in radarchart graphics.
 
-An interactive app is also used (code was taken from [here][2]), and the variables to be evaluated can be paired and the number of clusters changeable.
+An interactive app is also used ([Shiny app][2]), and the variables to be evaluated can be paired and the number of clusters changeable.
 
 [1]: https://www.amazon.es/s?k=aspiradoras&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2
 [2]: https://shiny.rstudio.com/gallery/kmeans-example.html
